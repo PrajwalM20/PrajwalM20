@@ -10,35 +10,45 @@ Currently learning **Python, Django, React, and Java** — focused on full-stack
 ## Tech Stack
 
 ### **Languages**
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black">  
-<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 </p>
 
+
 ### **Frameworks & Tools**
-<p>
-<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"> 
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"> 
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">  
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">  
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white">  
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 </p>
+
 
 ---
 
 ## AI & Productivity Tools
-<p>
-<img src="https://img.shields.io/badge/ChatGPT-00A67E?logo=openai&logoColor=white">  
-<img src="https://img.shields.io/badge/Copilot-000000?logo=githubcopilot&logoColor=white">  
-<img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white">  
-<img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white">  
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=black">  
+<p align="left">
+  <img src="https://api.iconify.design/simple-icons:openai.svg" height="20"/> ChatGPT &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:googlegemini.svg" height="20"/> Google Gemini &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:notion.svg" height="20"/> Notion &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:githubcopilot.svg" height="20"/> GitHub Copilot &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:midjourney.svg" height="20"/> Midjourney &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:microsoftcopilot.svg" height="20"/> Microsoft Copilot &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:huggingface.svg" height="20"/> HuggingFace &nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:perplexity.svg" height="20"/> Perplexity &nbsp;&nbsp;
 </p>
 
 ---
@@ -51,8 +61,28 @@ Currently learning **Python, Django, React, and Java** — focused on full-stack
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwalm05)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:prajwalm1122@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/prajwalm05" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+  </a>
+  
+  <a href="mailto:prajwalm1122@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/PrajwalM20" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:prajwalm1122@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
+  </a>
+
+  
+</p>
+
 
 ---
 
