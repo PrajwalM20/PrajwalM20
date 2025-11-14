@@ -28,6 +28,8 @@ Currently learning **Python, Django, React, and Java** — focused on full-stack
 ---
 
 ### **Frameworks & Tools**
+
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
@@ -85,7 +87,7 @@ Currently learning **Python, Django, React, and Java** — focused on full-stack
 ---
 
 ## Profile Views
-![](https://komarev.com/ghpvc/?username=PrajwalM20&label=Profile%20Views&color=blue&style=flat)
 
+![](https://komarev.com/ghpvc/?username=PrajwalM20&label=Profile%20Views&color=blue&style=flat)
 ---
 
