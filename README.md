@@ -74,12 +74,6 @@ Currently learning **Python, Django, React, and Java** — focused on full-stack
   <a href="https://github.com/PrajwalM20" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
   </a>
-
-  <!-- Gmail -->
-  <a href="mailto:prajwalm1122@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
-  </a>
-
   
 </p>
 
