@@ -47,6 +47,8 @@ Currently learning **Python, Django, React, and Java** — focused on full-stack
   <img src="https://api.iconify.design/simple-icons:midjourney.svg" height="20"/> Midjourney &nbsp;&nbsp;
   <img src="https://api.iconify.design/simple-icons:microsoftcopilot.svg" height="20"/> Microsoft Copilot &nbsp;&nbsp;
   <img src="https://api.iconify.design/simple-icons:huggingface.svg" height="20"/> HuggingFace &nbsp;&nbsp;
+ </p>
+ <p align="left">
   <img src="https://api.iconify.design/simple-icons:perplexity.svg" height="20"/> Perplexity &nbsp;&nbsp;
 </p>
 
