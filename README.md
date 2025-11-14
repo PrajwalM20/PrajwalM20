@@ -39,17 +39,18 @@ Currently learning **Python, Django, React, and Java** — focused on full-stack
 ---
 
 ## AI & Productivity Tools
-<p align="left">
-  <img src="https://api.iconify.design/simple-icons:openai.svg" height="20"/> ChatGPT &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons:googlegemini.svg" height="20"/> Google Gemini &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons:notion.svg" height="20"/> Notion &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons:githubcopilot.svg" height="20"/> GitHub Copilot &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons:midjourney.svg" height="20"/> Midjourney &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons:microsoftcopilot.svg" height="20"/> Microsoft Copilot &nbsp;&nbsp;
-  <img src="https://api.iconify.design/simple-icons:huggingface.svg" height="20"/> HuggingFace &nbsp;&nbsp;
- </p>
- <p align="left">
-  <img src="https://api.iconify.design/simple-icons:perplexity.svg" height="20"/> Perplexity &nbsp;&nbsp;
+
+<p align="center" style="font-weight: bold;">
+  <!-- Line 1 -->
+  <img src="https://api.iconify.design/simple-icons:openai.svg" height="20" /> &nbsp; CHATGPT &nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:googlegemini.svg" height="20" /> &nbsp; GOOGLE GEMINI &nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:notion.svg" height="20" /> &nbsp; NOTION &nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:githubcopilot.svg" height="20" /> &nbsp; GITHUB COPILOT &nbsp;&nbsp;&nbsp;
+  <br><br>
+  <!-- Line 2 -->
+  <img src="https://api.iconify.design/simple-icons:microsoftcopilot.svg" height="20" /> &nbsp; MICROSOFT COPILOT &nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:huggingface.svg" height="20" /> &nbsp; HUGGINGFACE &nbsp;&nbsp;&nbsp;
+  <img src="https://api.iconify.design/simple-icons:perplexity.svg" height="20" /> &nbsp; PERPLEXITY &nbsp;&nbsp;&nbsp;
 </p>
 
 ---
@@ -78,12 +79,10 @@ Currently learning **Python, Django, React, and Java** — focused on full-stack
   
 </p>
 
-
 ---
 
 ## Profile Views
 ![](https://komarev.com/ghpvc/?username=PrajwalM20&label=Profile%20Views&color=blue&style=flat)
 
 ---
-
 
